@@ -1,6 +1,3 @@
-Here is a basic `README.md` file for your project. You can create this file in your root directory.
-
-```markdown
 # AtomDB
 
 AtomDB is a persistent key-value store written in Go. It implements a B+Tree storage engine from scratch without relying on external database libraries.
@@ -61,7 +58,3 @@ func main() {
 ## References
 
 This project is based on the book "Build Your Own Database From Scratch in Go" by James Smith.
-
-```
-
-```
